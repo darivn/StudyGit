@@ -34,6 +34,22 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "2b111061-df2a-4050-a12f-7f053aa91224",
+      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "e8958e37-0dc4-4b97-b6ac-0ed6af6e448f",
+      "PreviousItemId": "2b111061-df2a-4050-a12f-7f053aa91224"
+    },
+    {
+      "ItemId": "0fa13f6b-44b1-4b41-9339-8e8f9e6ad867",
+      "PreviousItemId": "e8958e37-0dc4-4b97-b6ac-0ed6af6e448f"
+    },
+    {
+      "ItemId": "495f4a92-6538-434d-978a-9cc109f6ec98",
+      "PreviousItemId": "0fa13f6b-44b1-4b41-9339-8e8f9e6ad867"
     }
   ],
   "IconResourcesKeys": [],
